@@ -1,0 +1,54 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}拓扑空间和连续性}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}拓扑空间}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}度量拓扑}{1}{subsection.1.1.1}%
+\contentsline {paragraph}{定义}{1}{paragraph*.2}%
+\contentsline {paragraph}{度量拓扑}{1}{paragraph*.3}%
+\contentsline {subsection}{\numberline {1.1.2}序列的收敛性}{3}{subsection.1.1.2}%
+\contentsline {paragraph}{定义}{3}{paragraph*.4}%
+\contentsline {paragraph}{举例}{3}{paragraph*.5}%
+\contentsline {subsection}{\numberline {1.1.3}拓扑基$Topology \,\, Basis$}{4}{subsection.1.1.3}%
+\contentsline {paragraph}{引入}{4}{paragraph*.6}%
+\contentsline {paragraph}{定义}{4}{paragraph*.7}%
+\contentsline {paragraph}{等价拓扑基}{5}{paragraph*.8}%
+\contentsline {section}{\numberline {1.2}连续映射，$Hausdorff$ 空间，同胚映射}{6}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}连续映射}{6}{subsection.1.2.1}%
+\contentsline {paragraph}{定义}{6}{paragraph*.9}%
+\contentsline {paragraph}{等价定义}{6}{paragraph*.10}%
+\contentsline {subsection}{\numberline {1.2.2}$Hausdorff$ 空间}{8}{subsection.1.2.2}%
+\contentsline {paragraph}{引入}{8}{paragraph*.11}%
+\contentsline {paragraph}{定义}{8}{paragraph*.12}%
+\contentsline {paragraph}{性质}{8}{paragraph*.13}%
+\contentsline {subsection}{\numberline {1.2.3}同胚映射}{10}{subsection.1.2.3}%
+\contentsline {paragraph}{定义}{10}{paragraph*.14}%
+\contentsline {section}{\numberline {1.3}乘积拓扑}{11}{section.1.3}%
+\contentsline {paragraph}{引入}{11}{paragraph*.15}%
+\contentsline {paragraph}{定义}{11}{paragraph*.16}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}几个重要的拓扑性质}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}紧性}{12}{section.2.1}%
+\contentsline {paragraph}{引入}{12}{paragraph*.17}%
+\contentsline {paragraph}{定义}{12}{paragraph*.18}%
+\contentsline {paragraph}{子集的紧性}{13}{paragraph*.19}%
+\contentsline {subparagraph}{引入}{13}{subparagraph*.20}%
+\contentsline {subparagraph}{定义}{13}{subparagraph*.21}%
+\contentsline {paragraph}{性质}{13}{paragraph*.22}%
+\contentsline {section}{\numberline {2.2}乘积空间的紧性，其他紧性}{15}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}乘积空间的紧性}{15}{subsection.2.2.1}%
+\contentsline {paragraph}{有限个空间的乘积}{15}{paragraph*.23}%
+\contentsline {subsection}{\numberline {2.2.2}紧性与连续映射}{17}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}其他紧性}{18}{subsection.2.2.3}%
+\contentsline {paragraph}{极限点紧性}{18}{paragraph*.24}%
+\contentsline {paragraph}{列紧性}{19}{paragraph*.25}%
+\contentsline {section}{\numberline {2.3}连通性}{20}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}连通性}{20}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}拓扑不变性}{23}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}连通分支}{27}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}道路连通性}{29}{subsection.2.3.4}%
+\contentsline {paragraph}{定义}{29}{paragraph*.26}%
+\contentsline {paragraph}{拓扑不变性}{29}{paragraph*.27}%
+\contentsline {paragraph}{道路连通 $\&$ 连通}{30}{paragraph*.28}%
+\contentsline {paragraph}{局部道路连通}{32}{paragraph*.29}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}商空间与闭曲面}{34}{chapter.3}%
+\contentsline {section}{\numberline {3.1}商空间与商映射}{34}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}$M\ddot {o}bius$ 带}{34}{subsection.3.1.1}%
+\contentsline {paragraph}{几何直观}{34}{paragraph*.30}%
+\contentsline {paragraph}{抽象方法}{36}{paragraph*.31}%
